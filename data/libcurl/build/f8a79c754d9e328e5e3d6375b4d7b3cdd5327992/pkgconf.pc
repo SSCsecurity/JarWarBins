@@ -1,0 +1,7 @@
+prefix=/opt/.conan/data/pkgconf/1.7.4/_/_/package/24647d9fe8ec489125dfbae4b3ebefaf7581674c
+
+Name: pkgconf
+Description: package compiler and linker metadata toolkit
+Version: 1.7.4
+Libs: 
+Cflags: 

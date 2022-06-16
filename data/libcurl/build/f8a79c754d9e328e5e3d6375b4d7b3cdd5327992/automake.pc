@@ -1,0 +1,8 @@
+prefix=/opt/.conan/data/automake/1.16.5/_/_/package/6b8c0d8c1a3bf5599cac08c84e874bdb5f2c2329
+
+Name: automake
+Description: Automake is a tool for automatically generating Makefile.in files compliant with the GNU Coding Standards.
+Version: 1.16.5
+Libs: 
+Cflags: 
+Requires: autoconf

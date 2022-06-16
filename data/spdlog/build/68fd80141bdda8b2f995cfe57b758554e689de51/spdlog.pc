@@ -1,0 +1,13 @@
+prefix=/opt/.conan/data/spdlog/1.10.0/_/_/package/68fd80141bdda8b2f995cfe57b758554e689de51
+exec_prefix=${prefix}
+includedir=${prefix}/include
+libdir=${exec_prefix}/lib
+
+Name: libspdlog
+Description: Fast C++ logging library.
+URL: https://github.com/gabime/spdlog
+Version: 1.10.0
+CFlags: -I${includedir} -DSPDLOG_SHARED_LIB -DSPDLOG_COMPILED_LIB -DSPDLOG_FMT_EXTERNAL
+Libs: -L${libdir} -lspdlog -pthread
+Requires: fmt
+

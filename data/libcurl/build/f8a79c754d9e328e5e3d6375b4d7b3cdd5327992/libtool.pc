@@ -1,0 +1,10 @@
+prefix=/opt/.conan/data/libtool/2.4.6/_/_/package/7220a8d356f22477137df1a1547bcd812718c470
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: libtool
+Description: GNU libtool is a generic library support script. 
+Version: 2.4.6
+Libs: -L"${libdir}" -lltdl  -ldl  -Wl,-rpath,"${libdir}"
+Cflags: -I"${includedir}"
+Requires: automake

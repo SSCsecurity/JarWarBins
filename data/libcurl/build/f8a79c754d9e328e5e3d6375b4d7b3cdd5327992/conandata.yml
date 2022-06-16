@@ -1,0 +1,4 @@
+sources:
+  7.83.1:
+    sha256: 93fb2cd4b880656b4e8589c912a9fd092750166d555166370247f09d18f5d0c0
+    url: https://curl.se/download/curl-7.83.1.tar.gz

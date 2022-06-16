@@ -1,0 +1,46 @@
+[settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=9
+    os=Linux
+
+[requires]
+    fmt/8.1.1#b3e969f8561a85087bd0365c09bbf4fb:30a9781670e6fb2f17b8355b17a15cf916045317
+
+[options]
+    header_only=False
+    no_exceptions=False
+    shared=True
+    wchar_filenames=False
+    wchar_support=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Release
+    compiler=gcc
+    compiler.libcxx=libstdc++
+    compiler.version=9
+    os=Linux
+
+[full_requires]
+    fmt/8.1.1:30a9781670e6fb2f17b8355b17a15cf916045317
+
+[full_options]
+    header_only=False
+    no_exceptions=False
+    shared=True
+    wchar_filenames=False
+    wchar_support=False
+    fmt:fPIC=True
+    fmt:header_only=False
+    fmt:shared=False
+    fmt:with_fmt_alias=False
+    fmt:with_os_api=True
+
+[recipe_hash]
+    6ef9a82ea41aaeb10e7736a99da3503e
+
+[env]
+

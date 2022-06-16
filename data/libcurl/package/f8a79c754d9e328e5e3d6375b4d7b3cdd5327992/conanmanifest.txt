@@ -1,0 +1,19 @@
+1655407540
+bin/curl-config: 52328b19f40d6f358407742176bd933e
+conaninfo.txt: 98d901526479a647b91241165311fcba
+include/curl/curl.h: ba2b17fb7a8939e98c8effe565626420
+include/curl/curlver.h: ca9a4e8bef6ca8feaeea35a2ca893697
+include/curl/easy.h: 126fe24f2477136f24478b12102d95f4
+include/curl/header.h: b4d3f52adbf8e5e2e9661f8c09bab52c
+include/curl/mprintf.h: 4eed4bf84411012624f4a25c3bb767ca
+include/curl/multi.h: 3a13f074ab8de2f7b23a75e01ade7260
+include/curl/options.h: d33115d5c47ef934cc13bf9bf1f91a05
+include/curl/stdcheaders.h: 885513d17ab74d55c39c89e13cd7c5d9
+include/curl/system.h: 1def4994e4fc865abeeb01020aa0043f
+include/curl/typecheck-gcc.h: 66459989b31321ca4fce4ca9246c2c08
+include/curl/urlapi.h: 57a3afd57a88e1a734eee45d9bdbe389
+lib/libcurl.so: 44c65788f858c18429549d923cfdd10e
+lib/libcurl.so.4: 44c65788f858c18429549d923cfdd10e
+lib/libcurl.so.4.8.0: 44c65788f858c18429549d923cfdd10e
+licenses/COPYING: 190c514872597083303371684954f238
+res/cacert.pem: aa5ac583708ca35225ac2d230f4acb62

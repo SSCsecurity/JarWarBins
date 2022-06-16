@@ -1,0 +1,10 @@
+prefix=/opt/.conan/data/openssl/3.0.3/_/_/package/5ccd87090512901ae7a8c18837500511698efed7
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: openssl-libcrypto
+Description: Conan package: openssl-libcrypto
+Version: 3.0.3
+Libs: -L"${libdir}" -lcrypto  -ldl  -lrt  -lpthread  -Wl,-rpath,"${libdir}"
+Cflags: -I"${includedir}"
+Requires: zlib

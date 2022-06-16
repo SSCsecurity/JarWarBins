@@ -1,0 +1,9 @@
+prefix=/opt/.conan/data/openssl/3.0.3/_/_/package/5ccd87090512901ae7a8c18837500511698efed7
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: OpenSSL
+Description: Secure Sockets Layer and cryptography libraries and tools
+Version: 3.0.3
+Requires: libssl libcrypto

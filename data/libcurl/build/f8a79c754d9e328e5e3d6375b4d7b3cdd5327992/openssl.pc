@@ -1,0 +1,4 @@
+Name: openssl
+Description: A toolkit for the Transport Layer Security (TLS) and Secure Sockets Layer (SSL) protocols
+Version: 3.0.3
+Requires: libcrypto libssl

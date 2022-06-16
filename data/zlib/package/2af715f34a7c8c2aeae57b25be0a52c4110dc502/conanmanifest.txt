@@ -1,0 +1,8 @@
+1652450471
+conaninfo.txt: 09d2dc08f8738c9458346a7c8ac91c21
+include/zconf.h: 090a48907420edfe5d859305f967a6c7
+include/zlib.h: d3e8793e6d1b7c77d2a7732246f14063
+lib/libz.so: ed704e6afdf87c11a635b536a2b33ca2
+lib/libz.so.1: ed704e6afdf87c11a635b536a2b33ca2
+lib/libz.so.1.2.12: ed704e6afdf87c11a635b536a2b33ca2
+licenses/LICENSE: 36207c7effe05dd1ec51e57188feba46

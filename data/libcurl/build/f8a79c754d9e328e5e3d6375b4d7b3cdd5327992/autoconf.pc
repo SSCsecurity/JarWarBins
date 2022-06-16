@@ -1,0 +1,8 @@
+prefix=/opt/.conan/data/autoconf/2.71/_/_/package/5ab84d6acfe1f23c4fae0ab88f26e3a396351ac9
+
+Name: autoconf
+Description: Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages
+Version: 2.71
+Libs: 
+Cflags: 
+Requires: m4

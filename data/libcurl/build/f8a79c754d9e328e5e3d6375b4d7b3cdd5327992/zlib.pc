@@ -1,0 +1,9 @@
+prefix=/opt/.conan/data/zlib/1.2.12/_/_/package/2af715f34a7c8c2aeae57b25be0a52c4110dc502
+libdir=${prefix}/lib
+includedir=${prefix}/include
+
+Name: zlib
+Description: A Massively Spiffy Yet Delicately Unobtrusive Compression Library (Also Free, Not to Mention Unencumbered by Patents)
+Version: 1.2.12
+Libs: -L"${libdir}" -lz  -Wl,-rpath,"${libdir}"
+Cflags: -I"${includedir}"

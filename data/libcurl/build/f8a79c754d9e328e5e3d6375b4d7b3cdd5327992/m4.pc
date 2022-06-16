@@ -1,0 +1,7 @@
+prefix=/opt/.conan/data/m4/1.4.19/_/_/package/24647d9fe8ec489125dfbae4b3ebefaf7581674c
+
+Name: m4
+Description: GNU M4 is an implementation of the traditional Unix macro processor
+Version: 1.4.19
+Libs: 
+Cflags: 
